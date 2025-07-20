@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm <span style="color:#ff7f50;">Pavani Kadari</span> 👩‍💻</h1>
 
 <h4 align="center">
-🚀 Aspiring Full-Stack Developer | B.Tech 3rd-Year Student | AI/ML Enthusiast  
+🚀 Aspiring Full-Stack Developer | B.Tech 4th-Year Student | AI/ML Enthusiast  
 </h4>
 
 ---
