@@ -59,6 +59,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KadariPavani&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KadariPavani&theme=tokyonight" alt="streak" width="48%" />
 
 </div>
 
