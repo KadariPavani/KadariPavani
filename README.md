@@ -17,7 +17,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=KadariPavani&theme=react-dark&hide_border=true&area=true) <hr>
 
----
+
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
